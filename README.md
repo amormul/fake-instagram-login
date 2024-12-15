@@ -4,6 +4,8 @@
 
 **Fake Instagram Login** is a project designed to simulate an Instagram login page for educational purposes. It raises awareness about phishing attacks and online security. This project is for learning and ethical testing only.
 
+![image](https://github.com/user-attachments/assets/a61550eb-cbcd-4ee5-890c-31b2b99602f4)
+
 ---
 
 ## ⚠️ **Warning**
